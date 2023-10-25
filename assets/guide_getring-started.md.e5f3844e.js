@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.edbfdbf1.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/getring-started.md","filePath":"guide/getring-started.md"}'),a={name:"guide/getring-started.md"};function n(s,d,i,o,c,g){return t(),r("div")}const m=e(a,[["render",n]]);export{_ as __pageData,m as default};
